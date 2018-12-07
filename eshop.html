@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Cette balise gère les méta-données de la page, 
+	toute les caractéristiques propres à la page. -->
+<meta charset="ISO-8859-1">
+<title>Boutique</title>
+</head>
+<body>
+	<h1>Chocolaterie</h1>
+	<h2>Choisissez vos chocolats :</h2>
+	<form method="post" action="">
+		<div>
+			<label for="name">Nom</label>
+			<input id="name" name="name">
+		</div>
+		<div>
+			<label for="address">Adresse</label>
+			<input id="address" name="address">
+		</div>
+		<div>
+			<label for="choco">Type de chocolats</label>
+			<select id="choco" name="choco">
+				<option label="----" value="" />
+				<!-- Remplir ici des éléments option pour chaque
+				type de chocolat chargé depuis le fichier JSON. -->
+			</select>
+		</div>
+		<button>Commander</button>
+	</form>
+</body>
+</html>
