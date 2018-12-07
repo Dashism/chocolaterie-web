@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Choclat noir 70%",
+        "value": "black-70"
+    },
+    {
+        "label": "Chocolat noir 80%",
+        "value": "black-80"
+    },
+    {
+        "label": "Chocolat noir 88%",
+        "value": "black-88"
+    },
+    {
+        "label": "Chocolat au lait",
+        "value": "milk"
+    },
+    {
+        "label": "Chocolat au lait et biscuit",
+        "value": "milk-biscuit"
+    },
+    {
+        "label": "Chocolat blanc",
+        "value": "white"
+    }
+]
